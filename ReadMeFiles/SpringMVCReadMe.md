@@ -1,6 +1,7 @@
 # SpringMVCFullAndFinal
 
 A simple Spring MVC web application demonstrating form handling, model attribute binding, and view resolution using JSP.
+- eclipse > new maven project > webapp > finish.
 
 ## 📁 Project Structure
 
