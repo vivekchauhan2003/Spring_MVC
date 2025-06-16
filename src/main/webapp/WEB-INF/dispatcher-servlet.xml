@@ -17,7 +17,4 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 	<property name = "suffix" value=".jsp"/>
 	
 </bean>
-
-
-
 </beans>
